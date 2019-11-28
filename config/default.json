@@ -1,0 +1,7 @@
+{
+    "port": 7788,
+    "host": "localhost",
+    "database": "EXAM",
+    "user": "root",
+    "password": "root"
+}
